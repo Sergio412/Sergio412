@@ -28,9 +28,6 @@
         <img src="https://www.logo.wine/a/logo/NetBeans/NetBeans-Logo.wine.svg" alt="Netbeans " width="80">
     </div>
 </div>
-<hr>
-
-
 ------
 
 Credit: [francojimenezcopati](https://github.com/francojimenezcopati)
