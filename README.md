@@ -11,7 +11,7 @@
 </header>
 <hr>
 <div align="center">
-    <h2 align="center">Tecnologias que manejo</h2>
+    <h2 align="center">Tecnologias Que Manejo</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
@@ -28,6 +28,12 @@
         <img src="https://www.logo.wine/a/logo/NetBeans/NetBeans-Logo.wine.svg" alt="Netbeans " width="80">
     </div>
 </div>
+<footer align="center">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sergio412&include_all_commits=true&show_icons=true&theme=radical" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio412&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+    </p>
+</footer>
 ------
 
 Credit: [francojimenezcopati](https://github.com/francojimenezcopati)
